@@ -1,0 +1,14 @@
+# Binaries
+drop
+*.deb
+*.tar.gz
+
+# Build staging directories
+deb-package/
+
+# Temporary / test files
+test.txt
+*.tmp
+
+# OS files
+.DS_Store
